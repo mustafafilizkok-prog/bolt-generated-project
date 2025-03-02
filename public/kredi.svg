@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M650 150H150V650H650V150Z" fill="white"/>
+  <path d="M650 150H150C150 150 150 400 400 400C650 400 650 150 650 150Z" fill="#4169E1"/>
+  <path d="M400 400C400 400 150 400 150 650H400L400 400Z" fill="#4169E1"/>
+  <path d="M400 400V650H650C650 650 650 400 400 400Z" fill="#00CED1"/>
+</svg>
